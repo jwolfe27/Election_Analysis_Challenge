@@ -36,15 +36,15 @@ The below code calculates the number of votes per candidate, reveailing the tota
 ![PyPoll Code_Candidate_Vote_Total](https://user-images.githubusercontent.com/89044350/132259831-c6d0abc3-183e-4f4a-a655-b1df442efd49.PNG)
 
 Candidate Results:
-Diana DeGette: 272,892 Votes = 73.8% of Total Vote
-Charles Casper: 85,213 Votes = 23% of Total Vote
-Raymon Anthony Doane: 11,606 Votes = 3.1% Total Vote
+- Diana DeGette: 272,892 Votes = 73.8% of Total Vote
+- Charles Casper: 85,213 Votes = 23% of Total Vote
+- Raymon Anthony Doane: 11,606 Votes = 3.1% Total Vote
 
 Diana DeGette achieved a landslide victory winning almost 74% of the Total Votes Cast
 
 ## Proposal
 
-Restructuring the script contained herein could prove to be extremely valuable should the Colorado Election Commission need to evaluate results from additional counties, other states or even a national Presidential elections.  By simply changing the "County" list to "US States", election data on a national scale could be analyzed.  
+Restructuring the script contained herein could prove to be extremely valuable should the Colorado Election Commission need to evaluate results from additional counties, other states or even national Presidential elections.  By simply changing the "County" list to "US States", election data on a national scale could be analyzed.  
 
 Another way this code could be utilized is to breakdown which candidate got what percent of vote for each county.  This would help candidates decide where to spend their time campaigning. For example: Diana DeGette, a Democrat, won 73.8% of the total vote, but did she win any of the 24,801 votes out of Arapahoe County? This type of data analyzation could show the voter demographic for the State of Colorado, it would also show candidates where they are most and least supported.
 
